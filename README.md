@@ -28,7 +28,7 @@ A streaming app starter with:
 - Video player integration
 - Category-based content organization
 - Autoplay video carousels
-- [View Code](/projects/netflix-clone) | [Live Demo](magically.life/project/7ec14d4d-16b9-4f4d-aed7-2d00ab394baa/preview)
+- [View Code](/projects/netflix-clone) | [Live Demo](https://magically.life/project/7ec14d4d-16b9-4f4d-aed7-2d00ab394baa/preview)
 
 *(More starters coming soon! Watch this repo to stay updated)*
 
