@@ -30,6 +30,25 @@ A streaming app starter with:
 - Autoplay video carousels
 - [View Code](/projects/netflix-clone) | [Live Demo](https://magically.life/project/7ec14d4d-16b9-4f4d-aed7-2d00ab394baa/preview)
 
+### 🎬 Tiktok Clone
+A streaming app starter with:
+- Modern UI with smooth animations
+- Video player integration
+- Autoplay video vertical carousel
+- [View Code](/projects/tiktok-clone) 
+
+
+### 🎬 Finance Tracker
+A finance tracker starter with:
+- Modern UI with smooth animations
+- [View Code](/projects/finance-tracker)
+
+
+### 🎬 Zara Fashion Store Clone
+A streaming app starter with:
+- Modern UI with smooth animations
+- [View Code](/projects/zara-fashion-store-clone)
+
 *(More starters coming soon! Watch this repo to stay updated)*
 
 ## Getting Started
